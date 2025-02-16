@@ -1,0 +1,67 @@
+SIMPLE HTML DOCS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Dhruvn Pramanick</h1>
+  <p>Heloo Every one</p>
+  <a href="https://youtube.com/@DhruvnGaming">
+    More Information
+  </a>
+  <div>Is just like a paragraph tags but more usable</div>
+  <style>
+    h1 {
+        background: yellow;
+    } 
+
+    p {
+      background-color: aqua;
+    }
+  </style>
+  <button>Click Here</button>
+  
+
+  <img src="">
+
+  <centre>This is will be on the centre</centre>
+
+  <video controls>
+    <source src="https://static.pexels.com/lib/videos/free-videos.mp4">
+  </video>
+
+  <style>
+    table, thead, tbody, tr, th, td {
+      border: 1px solid black;
+    }
+  </style>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td colspan="2">col 1</td>
+        <td>col 2</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <form>
+    <input type="number">
+    <input type="email" required>
+    <input type="month">
+
+    <input type="submit">
+  </form>
+  
+</body>
+</html>
